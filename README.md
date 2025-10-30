@@ -15,7 +15,7 @@ J’aime apprendre de nouvelles choses, relever des défis techniques et travail
 
 ## 🛠️ Compétences techniques
 
-- **Langages & frameworks :** HTML, CSS, Bootstrap, JavaScript, PHP (CodeIgniter), C#
+- **Langages & frameworks :** HTML, CSS, Bootstrap, Tailwind, JavaScript, PHP (CodeIgniter), C#, Java
 - **Base de données :** MySQL
 - **Outils :** Git / GitHub
 - **Langues :** Anglais (niveau B1)
